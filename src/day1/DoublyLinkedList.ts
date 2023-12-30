@@ -1,6 +1,6 @@
 export default class DoublyLinkedList<T> {
     public length: number;
-
+    private hello:string;
     
 
     constructor() {
